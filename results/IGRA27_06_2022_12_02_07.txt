@@ -1,0 +1,29 @@
+Igraè1
+
+Obicna figura  (GREEN) 1Obicna figura  - predjeni put: [4, 4, 4, 28, 38, 10, 33] stigla do cilja ne
+Broj dijamanata ove figure: 1
+Vrijeme kretanja ove figure :12
+Obicna figura  (GREEN) 2Obicna figura  - predjeni put: [4, 12, 46, 16, 10, 11, 19, 33, 17, 24] stigla do cilja da
+Broj dijamanata ove figure: 4
+Vrijeme kretanja ove figure :1
+Super brza figura  (GREEN) 3Super brza figura  - predjeni put: [4, 34, 16, 16, 19, 26, 26, 26] stigla do cilja da
+Broj dijamanata ove figure: 2
+Vrijeme kretanja ove figure :14
+Lebdeca figura  (GREEN) 4Lebdeca figura  - predjeni put: [4, 12, 12, 12, 40, 22, 19, 31, 31, 17, 25] stigla do cilja da
+Broj dijamanata ove figure: 5
+Vrijeme kretanja ove figure :17
+Igraè2
+
+Super brza figura  (RED) 1Super brza figura  - predjeni put: [4, 4, 20, 46, 11, 27, 26] stigla do cilja da
+Broj dijamanata ove figure: 1
+Vrijeme kretanja ove figure :13
+Lebdeca figura  (RED) 2Lebdeca figura  - predjeni put: [4, 20, 38, 22, 19, 31, 17, 32] stigla do cilja da
+Broj dijamanata ove figure: 3
+Vrijeme kretanja ove figure :14
+Lebdeca figura  (RED) 3Lebdeca figura  - predjeni put: [4, 34, 38, 11, 27, 27, 39, 39, 23, 32] stigla do cilja da
+Broj dijamanata ove figure: 5
+Vrijeme kretanja ove figure :15
+Obicna figura  (RED) 4Obicna figura  - predjeni put: [4, 20, 20, 34, 38, 10, 27, 23, 24] stigla do cilja da
+Broj dijamanata ove figure: 6
+Vrijeme kretanja ove figure :16
+ Ukupno vrijeme trajanja igre: 73

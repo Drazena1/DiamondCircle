@@ -1,0 +1,43 @@
+Igraè1
+
+Lebdeca figura  (BLUE) 1Lebdeca figura  - predjeni put: [4, 38, 25, 11, 30, 44, 20, 28] stigla do cilja da
+Broj dijamanata ove figure: 3
+Vrijeme kretanja ove figure :6
+Super brza figura  (BLUE) 2Super brza figura  - predjeni put: [4, 38, 52, 30, 35, 28] stigla do cilja da
+Broj dijamanata ove figure: 2
+Vrijeme kretanja ove figure :4
+Obicna figura  (BLUE) 3Obicna figura  - predjeni put: [4, 38, 45, 25, 21, 30, 37, 19, 20, 27] stigla do cilja da
+Broj dijamanata ove figure: 3
+Vrijeme kretanja ove figure :5
+Super brza figura  (BLUE) 4Super brza figura  - predjeni put: [4, 52, 37, 26, 29, 29, 29, 29, 29, 29, 28] stigla do cilja da
+Broj dijamanata ove figure: 4
+Vrijeme kretanja ove figure :8
+Igraè2
+
+Super brza figura  (RED) 1Super brza figura  - predjeni put: [4, 45, 18, 37, 28] stigla do cilja da
+Broj dijamanata ove figure: 3
+Vrijeme kretanja ove figure :8
+Obicna figura  (RED) 2Obicna figura  - predjeni put: [4, 38] stigla do cilja ne
+Broj dijamanata ove figure: 1
+Vrijeme kretanja ove figure :4
+Obicna figura  (RED) 3Obicna figura  - predjeni put: [4, 22] stigla do cilja ne
+Broj dijamanata ove figure: 0
+Vrijeme kretanja ove figure :2
+Obicna figura  (RED) 4Obicna figura  - predjeni put: [4, 22, 45, 25, 21, 35, 29, 29, 28] stigla do cilja da
+Broj dijamanata ove figure: 2
+Vrijeme kretanja ove figure :10
+Igraè3
+
+Obicna figura  (YELLOW) 1Obicna figura  - predjeni put: [4, 13, 13, 45, 25, 21, 44, 19, 36] stigla do cilja da
+Broj dijamanata ove figure: 1
+Vrijeme kretanja ove figure :1
+Lebdeca figura  (YELLOW) 2Lebdeca figura  - predjeni put: [4, 38, 45, 34, 18, 30, 37, 26, 29, 28] stigla do cilja da
+Broj dijamanata ove figure: 3
+Vrijeme kretanja ove figure :15
+Obicna figura  (YELLOW) 3Obicna figura  - predjeni put: [4, 22, 52, 52, 25, 21, 35, 36] stigla do cilja ne
+Broj dijamanata ove figure: 3
+Vrijeme kretanja ove figure :8
+Super brza figura  (YELLOW) 4Super brza figura  - predjeni put: [4, 52, 11] stigla do cilja ne
+Broj dijamanata ove figure: 2
+Vrijeme kretanja ove figure :5
+ Ukupno vrijeme trajanja igre: 85

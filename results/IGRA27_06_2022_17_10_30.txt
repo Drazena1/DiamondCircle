@@ -1,0 +1,29 @@
+Igraè1
+
+Lebdeca figura  (BLUE) 1Lebdeca figura  - predjeni put: [4, 12, 34, 38, 10, 19, 19, 31, 17, 18, 18, 18, 32, 25] stigla do cilja da
+Broj dijamanata ove figure: 4
+Vrijeme kretanja ove figure :5
+Lebdeca figura  (BLUE) 2Lebdeca figura  - predjeni put: [4, 34, 30, 10, 19, 33, 33, 17, 26] stigla do cilja da
+Broj dijamanata ove figure: 1
+Vrijeme kretanja ove figure :11
+Lebdeca figura  (BLUE) 3Lebdeca figura  - predjeni put: [4, 20, 28, 30, 16, 10, 27, 31, 26, 24, 24] stigla do cilja da
+Broj dijamanata ove figure: 4
+Vrijeme kretanja ove figure :11
+Obicna figura  (BLUE) 4Obicna figura  - predjeni put: [4, 12, 12, 12, 12, 28, 40] stigla do cilja ne
+Broj dijamanata ove figure: 1
+Vrijeme kretanja ove figure :11
+Igraè2
+
+Lebdeca figura  (GREEN) 1Lebdeca figura  - predjeni put: [4, 28, 46, 22, 11, 27, 39, 23, 32] stigla do cilja da
+Broj dijamanata ove figure: 0
+Vrijeme kretanja ove figure :30
+Lebdeca figura  (GREEN) 2Lebdeca figura  - predjeni put: [4, 28, 38, 30, 19, 39, 26, 32, 25] stigla do cilja da
+Broj dijamanata ove figure: 2
+Vrijeme kretanja ove figure :13
+Lebdeca figura  (GREEN) 3Lebdeca figura  - predjeni put: [4, 4, 20, 38, 16, 11, 33, 31, 18] stigla do cilja da
+Broj dijamanata ove figure: 6
+Vrijeme kretanja ove figure :7
+Lebdeca figura  (GREEN) 4Lebdeca figura  - predjeni put: [4, 28, 28, 38, 22, 22, 22, 10, 33, 33, 17, 24, 25] stigla do cilja da
+Broj dijamanata ove figure: 4
+Vrijeme kretanja ove figure :9
+ Ukupno vrijeme trajanja igre: 105

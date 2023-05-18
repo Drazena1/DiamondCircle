@@ -1,0 +1,29 @@
+Igraè1
+
+Super brza figura  (RED) 1Super brza figura  - predjeni put: [5, 49, 67, 32, 57, 36, 36, 65, 65, 44, 44, 44] stigla do cilja da
+Broj dijamanata ove figure: 6
+Vrijeme kretanja ove figure :3
+Lebdeca figura  (RED) 2Lebdeca figura  - predjeni put: [5, 16, 27, 38, 67, 85, 41, 15, 66, 42, 25, 65, 35, 55, 45] stigla do cilja da
+Broj dijamanata ove figure: 9
+Vrijeme kretanja ove figure :26
+Obicna figura  (RED) 3Obicna figura  - predjeni put: [5, 27, 38, 76, 52, 14, 14, 26, 26, 66, 66, 66, 53, 33, 33, 33, 36, 56, 34, 34, 45] stigla do cilja da
+Broj dijamanata ove figure: 10
+Vrijeme kretanja ove figure :25
+Obicna figura  (RED) 4Obicna figura  - predjeni put: [5, 49, 74, 41, 15, 57, 53, 24] stigla do cilja ne
+Broj dijamanata ove figure: 6
+Vrijeme kretanja ove figure :8
+Igraè2
+
+Obicna figura  (YELLOW) 1Obicna figura  - predjeni put: [5, 27, 58, 85, 41, 15, 57, 53, 33] stigla do cilja ne
+Broj dijamanata ove figure: 0
+Vrijeme kretanja ove figure :17
+Obicna figura  (YELLOW) 2Obicna figura  - predjeni put: [5, 16, 27, 58, 58, 74, 74, 52, 15, 37, 57, 75, 24, 56, 34, 34, 44] stigla do cilja da
+Broj dijamanata ove figure: 9
+Vrijeme kretanja ove figure :27
+Super brza figura  (YELLOW) 3Super brza figura  - predjeni put: [5, 49, 52, 37, 24, 34] stigla do cilja da
+Broj dijamanata ove figure: 3
+Vrijeme kretanja ove figure :10
+Lebdeca figura  (YELLOW) 4Lebdeca figura  - predjeni put: [5, 49, 76, 63, 41, 23, 26, 26, 66, 42, 24, 65, 43, 46, 45] stigla do cilja da
+Broj dijamanata ove figure: 10
+Vrijeme kretanja ove figure :26
+ Ukupno vrijeme trajanja igre: 105

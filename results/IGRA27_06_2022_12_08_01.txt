@@ -1,0 +1,43 @@
+Igraè1
+
+Lebdeca figura  (GREEN) 1Lebdeca figura  - predjeni put: [4, 20, 28, 34, 46, 30, 11, 31, 18, 24] stigla do cilja da
+Broj dijamanata ove figure: 2
+Vrijeme kretanja ove figure :2
+Super brza figura  (GREEN) 2Super brza figura  - predjeni put: [4, 4, 4, 46, 11, 17, 17] stigla do cilja da
+Broj dijamanata ove figure: 2
+Vrijeme kretanja ove figure :5
+Lebdeca figura  (GREEN) 3Lebdeca figura  - predjeni put: [4, 12, 28, 38, 22, 16, 19, 33, 31, 18, 24] stigla do cilja da
+Broj dijamanata ove figure: 1
+Vrijeme kretanja ove figure :5
+Obicna figura  (GREEN) 4Obicna figura  - predjeni put: [4, 34, 38, 10, 33, 18, 25] stigla do cilja da
+Broj dijamanata ove figure: 2
+Vrijeme kretanja ove figure :9
+Igraè2
+
+Super brza figura  (YELLOW) 1Super brza figura  - predjeni put: [4, 34, 46, 30, 11, 39, 32] stigla do cilja da
+Broj dijamanata ove figure: 0
+Vrijeme kretanja ove figure :5
+Super brza figura  (YELLOW) 2Super brza figura  - predjeni put: [4, 46, 16] stigla do cilja ne
+Broj dijamanata ove figure: 0
+Vrijeme kretanja ove figure :3
+Lebdeca figura  (YELLOW) 3Lebdeca figura  - predjeni put: [4, 4, 12, 20, 28, 30, 30, 10, 19, 33, 31, 17, 18, 32] stigla do cilja da
+Broj dijamanata ove figure: 4
+Vrijeme kretanja ove figure :13
+Lebdeca figura  (YELLOW) 4Lebdeca figura  - predjeni put: [4, 20, 46, 22, 10, 19, 31, 18, 25] stigla do cilja da
+Broj dijamanata ove figure: 1
+Vrijeme kretanja ove figure :7
+Igraè3
+
+Super brza figura  (BLUE) 1Super brza figura  - predjeni put: [4, 30, 39, 32] stigla do cilja da
+Broj dijamanata ove figure: 0
+Vrijeme kretanja ove figure :9
+Super brza figura  (BLUE) 2Super brza figura  - predjeni put: [4, 46, 19, 32] stigla do cilja da
+Broj dijamanata ove figure: 1
+Vrijeme kretanja ove figure :1
+Super brza figura  (BLUE) 3Super brza figura  - predjeni put: [4, 4, 30, 39, 23, 26, 25] stigla do cilja da
+Broj dijamanata ove figure: 2
+Vrijeme kretanja ove figure :10
+Super brza figura  (BLUE) 4Super brza figura  - predjeni put: [4, 34] stigla do cilja ne
+Broj dijamanata ove figure: 0
+Vrijeme kretanja ove figure :4
+ Ukupno vrijeme trajanja igre: 89
